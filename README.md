@@ -111,7 +111,10 @@ from trade_order.order_api import *
 
 ## 初始化时调用
 def initialize(context):
-	pass
+	
+	## 订阅贵州茅台的tick
+	## 通常是在开盘订阅 这里为了测试放在了初始化函数里订阅
+	subscribe('600519.XSHG', 'tick')
 	
 ## 开盘前调用 09:00
 def before_trading_start(context):
