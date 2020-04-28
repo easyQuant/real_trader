@@ -16,7 +16,7 @@
 
 
 配置环境变量可以参考如下链接
-<a href="http://120.77.176.54:4000/Install/tesseract.html" >如何配置tesseract-ocr环境变量</a>
+<a href="http://111.229.146.183:4000/Install/tesseract.html" >如何配置tesseract-ocr环境变量</a>
 
 #### 2. 下载券商客户端
 http://download.95538.cn/download/software/hx/ths_order.exe
