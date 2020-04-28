@@ -14,9 +14,9 @@
 
 百度网盘下载地址 <a href="https://pan.baidu.com/s/1ZQTx3t9ICVMaXyzqRRLwcA" >tesseract-ocr</a>
 
-
 配置环境变量可以参考如下链接 (感谢大佬 <a href="https://github.com/Front-biger" >Front-biger</a> 提供服务器资源)
-<a href="http://120.78.191.105/Install/tesseract.html" >如何配置tesseract-ocr环境变量</a>
+
+<a href="http://120.78.191.105:4000/Install/tesseract.html" >如何配置tesseract-ocr环境变量</a>
 
 #### 2. 下载券商客户端
 http://download.95538.cn/download/software/hx/ths_order.exe
