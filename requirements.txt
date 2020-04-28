@@ -1,5 +1,5 @@
 numpy==1.17.4
-pandas==0.25.3
+pandas==0.24.2
 requests==2.22.0
 apscheduler==3.6.3
 easyutils==0.1.7
