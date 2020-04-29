@@ -6,7 +6,9 @@
 
 支持聚宽策略代码直接使用
 
-使用期间遇到问题 或 需要低佣金开户 欢迎加入qq群 663016616 
+使用期间遇到问题 或 需要低佣金开户 欢迎加我微信沟通
+
+<img src="https://i.loli.net/2020/04/29/STGwYt9OV2vBLk5.jpg" width="30%" height="30%" />
 
 ### 安装 tesseract-ocr 
 
