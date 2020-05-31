@@ -235,6 +235,8 @@ def parse_code(code):
 		return 'SZ' + code.split('.')[0]
 	elif code.endswith('XSHG'):
 		return 'SH' + code.split('.')[0]
+	else:
+		return code
 
 def parse_xq_code(code):
 	
