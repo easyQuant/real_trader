@@ -4,7 +4,7 @@ requests==2.22.0
 apscheduler==3.6.3
 easyutils==0.1.7
 jqdatasdk==1.7.8
-Pillow==6.2.1
+Pillow==9.3.0
 pyautogui==0.9.48
 pytesseract==0.3.1
 pywinauto==0.6.8
