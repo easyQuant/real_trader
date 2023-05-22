@@ -1,6 +1,6 @@
 numpy==1.17.4
 pandas==0.24.2
-requests==2.22.0
+requests==2.31.0
 apscheduler==3.6.3
 easyutils==0.1.7
 jqdatasdk==1.7.8
